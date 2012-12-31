@@ -1,0 +1,6 @@
+name: ExamplePlugin
+main: me.cyberstalk.pluginbuilder.ExamplePlugin
+version: 0.0.1
+author: mikenon
+description: Output of http://pluginbuilder.cyberstalk.me
+depend: [Spout]
